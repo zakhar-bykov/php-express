@@ -2,7 +2,7 @@
     "name": "zakhar-bykov/php-express",
     "type": "library",
     "description": "Mini PHP web framework like express for Node.JS",
-    "version": "v0.0.0",
+    "version": "v0.1.0",
     "keywords": [
         "router",
         "routing",
