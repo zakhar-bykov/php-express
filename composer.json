@@ -1,0 +1,33 @@
+{
+    "name": "zakhar-bykov/php-express",
+    "type": "library",
+    "description": "Mini PHP web framework like express for Node.JS",
+    "version": "v0.0.0",
+    "keywords": [
+        "router",
+        "routing",
+        "express"
+    ],
+    "homepage": "https://github.com/zakhar-bykov/php-express",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zakhar Bykov",
+            "email": "zak.bykov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Express\\": "src/"
+        }
+    },
+    "repositories": {
+      "packagist": {
+        "type": "composer",
+        "url": "https://packagist.org/packages/zakhar-bykov/php-express"
+      }
+    }
+}
